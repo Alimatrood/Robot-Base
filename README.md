@@ -1,4 +1,4 @@
-# Controlling Robot Movement and Robot Arm
+# Controlling Robot Movement and the Movement of the Arm
 
 - This project utilizes the following technologies in order to control the movement of a robot base and arm : HTML, CSS, JAVASCRIPT, PHP and MySQL.
 -------------------------------------
