@@ -8,7 +8,7 @@
 
 - To control the robot arm, there are 6 motors, and each motor with a different angle. Choose the angles of the motors, save them and press start to control the robot arm and move it.
 
-- To control the robot movement, press one of the buttons to either move forward, backward, right, left, or stop the robot if it is already moving.
+- To control the robot movement, press one of the buttons that are labeled with 'F', 'B', 'R', 'L', 'S',  to either move forward, backward, right, left, or stop the robot if it is already moving.
 
 - in order to use this project, the following software is needed to be installed: 
 XAMPP
