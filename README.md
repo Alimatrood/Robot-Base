@@ -19,5 +19,5 @@ Notes:
 
 - For best viewing/output of the pages, Google Chrome should be used.
 
-- These pages are not suitable to be used in mobile phones and might be rendered in a messy way.
+- These pages are not suitable to be used in mobile phones and might be rendered in a messy way when viewed in mobile phones screens.
 
