@@ -12,7 +12,7 @@
 
 - in order to use this project, the following software is needed to be installed: 
 XAMPP
-==============================
+-----------------------------------
 notes:
 
 - all files must be in the same folder, and the port to be used when running XAMPP is 8080.
